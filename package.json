@@ -90,7 +90,7 @@
     "eslint-plugin-typescript": "^0.14.0",
     "hookem": "^2.0.1",
     "jest": "^27.5.1",
-    "lint-staged": "^12.5.0",
+    "lint-staged": "^13.0.1",
     "prettier": "^2.6.2",
     "rollup": "^2.75.5",
     "rollup-plugin-babel": "^4.4.0",
